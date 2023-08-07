@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecyclerViewProject</string>
+    <string name="buy_items">Buy things on Amazon!</string>
+    <string name="sell_items">Be a seller on Amazon!</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="water_desc">Glistening waters framed by majestic mountains and golden sunset hues.</string>
+    <string name="nature_desc">Fiery sunset ignites the sky, painting nature\'s farewell masterpiece.</string>
+    <string name="sunset_desc">Golden sun bids farewell, casting fiery hues upon tranquil waters.</string>
+    <string name="mountains_desc">Majestic mountains stand tall, touching the sky with grandeur.</string>
+    <string name="panda_desc">Playful panda frolics amidst bamboo, a monochrome marvel of nature.</string>
+    <string name="lion_desc">Lion\'s gaze pierces golden savannah, embodying wild strength and majesty.</string>
+    <string name="tiger_desc">Tiger prowls through dappled jungle, a fierce and captivating predator.</string>
+    <string name="cat_desc">Graceful cat lounges in sunbeam, epitomizing feline elegance and contentment.</string>
+    <string name="dog_desc">Loyal dog frolics in meadow, embodying boundless joy and companionship.</string>
+    <string name="elephant_desc">Gentle giant roams savannah, its presence commanding awe and reverence.</string>
+    <string name="parrot_desc">Vibrant parrot soars, painting the sky with its kaleidoscope hues.</string>
+</resources>
